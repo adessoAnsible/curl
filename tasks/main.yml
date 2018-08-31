@@ -3,3 +3,4 @@
   apt:
     name: curl
     state: present
+  become: yes
